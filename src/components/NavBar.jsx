@@ -7,7 +7,7 @@ const NavBar = () => {
             <img
                 src={myImage}
                 alt="Navbar"
-                style={{ width: '1480px', height: '120px' }}
+                style={{ width: '1480px', height: '150px' }}
             />
         </div>
     );

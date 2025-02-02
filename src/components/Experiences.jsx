@@ -8,7 +8,7 @@ const Experiences = () => {
             <img
                               src={skills}
                               alt="Navbar"
-                              style={{ width: '1480px', height: '506px' }}
+                              style={{ width: '1480px', height: '606px' }}
                           />
     </div>
       
