@@ -9,7 +9,7 @@ const Contact = () => {
                   <img
                       src={contact}
                       alt="Navbar"
-                      style={{ width: '1480px', height: '696px' }}
+                      style={{ width: '1480px', height: '996px' }}
                   />
               </div>
     </div>
