@@ -11,15 +11,17 @@ const Projects = () => {
                     <center>
                         <img
                             src={projects}
-                            alt="Navbar"
-                            style={{ width: '190px', height: '20px' }}
-                        /></center>
+                            alt="projects"
+                            style={{ width: '190px', height: '20px' }} />
+                    </center>
                 </div>
-                <img
-                    src={myBlog}
-                    alt="Navbar"
-                    style={{ width: '1480px', height: '696px' }}
-                />
+                <div>
+                    <img
+                        src={myBlog}
+                        alt="blog"
+                        style={{ width: '1480px', height: '696px' }}
+                    />
+                </div>
             </div>
 
         </div>

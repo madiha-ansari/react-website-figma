@@ -7,7 +7,7 @@ const Customer = () => {
         <div><div>
             <img
                 src={customer}
-                alt="Navbar"
+                alt="customer"
                 style={{ width: '1480px', height: '696px' }}
             />
         </div>
